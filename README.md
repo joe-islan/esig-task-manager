@@ -27,7 +27,7 @@ Uma aplicação Laravel 12 para gerenciamento de tarefas com interface web moder
 ## 📥 Clonando o Projeto
 
 ```bash
-git clone https://github.com/seu-usuario/esig-task-manager.git
+git clone https://github.com/joe-islan/esig-task-manager.git
 cd esig-task-manager
 ```
 
