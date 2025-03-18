@@ -111,6 +111,7 @@ OPENAI_API_KEY=sk-your-openai-key
 Execute todos os testes (unitários + feature) com:
 
 ```bash
+php artisan migrate --env=testing
 php artisan test
 ```
 
